@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Vikas Gupta, a Senior Software Analyst at HCLTech with 2.5+ years of experience in AI-driven automation and agent development. I specialize in building AI solutions using Python, APIs, and LLMs, and I’ve worked on projects like an AI-powered assistant using Bedrock and Gemini. I’m passionate about applied AI and continuously learning in areas like Generative AI and RAG.
+I’m Vikas Gupta, a Senior Software Engineer at HCLTech with 2.5+ years of experience in AI-driven automation and agent development. I specialize in building AI solutions using Python, APIs, and LLMs, and I’ve worked on projects like an AI-powered assistant using Bedrock and Gemini. I’m passionate about applied AI and continuously learning in areas like Generative AI and RAG.
 
 
 ## 🌐 Socials:
